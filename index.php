@@ -43,7 +43,7 @@
       </nav>
     </header>
     <section class="body">
-      <div class="slider"/>
+      <div class="slider"></div>
       <div class="breacrumb"></div>
       <div class="welcome">
         <h2>Bienvenido</h2>

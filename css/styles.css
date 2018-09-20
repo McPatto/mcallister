@@ -88,11 +88,11 @@ nav {
 }
 
 .slider {
-	background-color: red;
-	justify-content: space-around;
 	width: 100%;
 	height: 200px;
-	position: relative;
+	padding-top: 80px;
+	background: url(../img/city.jpg) no-repeat #e6f0f2 0px 80px fixed;
+	background-size: 100%;
 }
 
 .socialNav {
@@ -143,21 +143,24 @@ nav {
 	position: fixed;
 	top: -100%;
 	display: block;
+	opacity: 0;
 	width: 100%;
 	background: #eaf9fb;
 	overflow: hidden;
-	-webkit-transition: all 1s ease-in-out;
-	-moz-transition: all 1s ease-in-out;
-	-o-transition: all 1s ease-in-out;
-	transition: all 1s ease-in-out;
-	z-index: 9;
+	-webkit-transition: all 1.6s ease-in, opacity 2s ease-in-out;
+	-moz-transition: all 1.6s ease-in, opacity 2s ease-in-out;
+	-o-transition: all 1.6s ease-in, opacity 2s ease-in-out;
+	transition: all 1.6s ease-in, opacity 2s ease-in-out;
+	z-index: -1;
 }
 
 .wrapperPage.expanded {
 	top: 80px;
 	visibility: visible;
-	-webkit-transition: all 1s ease-in-out;
-	-moz-transition: all 1s ease-in-out;
-	-o-transition: all 1s ease-in-out;
-	transition: all 1s ease-in-out;
+	opacity: 1;
+	-webkit-transition: all 1.6s ease-out, opacity 2s ease-in-out;
+	-moz-transition: all 1.6s ease-out, opacity 2s ease-in-out;
+	-o-transition: all 1.6s ease-out, opacity 2s ease-in-out;
+	transition: all 1.6s ease-out, opacity 2s ease-in-out;
+	z-index: -1;
 }
