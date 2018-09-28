@@ -51,14 +51,22 @@
       </div>
       <div class="thumbnails">
         <h2>ACCESOS RÁPIDOS</h2>
-        <div class="thumb1"></div>
-        <div class="thumb2"></div>
-        <div class="thumb3"></div>
-        <div class="thumb4"></div>
+        <div class="thumb1">
+          <div class="circle"></div>
+        </div>
+        <div class="thumb2">
+          <div class="circle"></div>
+        </div>
+        <div class="thumb3">
+          <div class="circle"></div>
+        </div>
+        <div class="thumb4">
+          <div class="circle"></div>
+        </div>
       </div>
     </section>
     <section class="footer">
-      <p>© Mc Allister Asesores</p>
+      <p>© Mc Allister Asesores 2018</p>
     </section>
   </container>
 
