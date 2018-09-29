@@ -51,16 +51,16 @@
       </div>
       <div class="thumbnails">
         <h2>ACCESOS RÁPIDOS</h2>
-        <div class="thumb1">
+        <div class="thumb thumb1">
           <div class="circle"></div>
         </div>
-        <div class="thumb2">
+        <div class="thumb thumb2">
           <div class="circle"></div>
         </div>
-        <div class="thumb3">
+        <div class="thumb thumb3">
           <div class="circle"></div>
         </div>
-        <div class="thumb4">
+        <div class="thumb thumb4">
           <div class="circle"></div>
         </div>
       </div>
