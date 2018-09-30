@@ -5,6 +5,31 @@
 }
 
 /* comment above before production */
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	color: #000000;
+	font-size: 17px;
+	font-weight: bold;
+	margin: auto;
+}
+
+h3 {
+	color: #000000;
+	font-size: 15px;
+	font-weight: bold;
+	margin: auto;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+	font-weight: normal;
+	font-size: 13px;
+}
+
 .body {
 	width: 100%;
 }
@@ -14,19 +39,12 @@
 	height: 45px;
 	background-color: #00bfbb;
 	border-radius: 50%;
-	margin: 15px auto;
+	margin: auto;
+    margin-bottom: 20px;
 }
 
 .container {
 	width: 100%;
-	font-family: 'Montserrat', sans-serif;
-}
-
-.container h2 {
-	color: #000000;
-	font-size: 15px;
-	font-weight: bold;
-	margin: auto;
 }
 
 .footer {
@@ -37,11 +55,29 @@
 	font-size: 10px;
 	font-weight: lighter;
 	background-color: #00cccc;
+	justify-content: space-between;
 }
 
 .footer p {
 	color: #ffffff;
 	margin: auto 20px;
+	justify-content: space-between;
+}
+
+.footerSocialNav {
+	display: flex;
+}
+
+.footerSocialNav ul {
+	margin-right: 15px;
+}
+
+.footerSocialNav li {
+	height: 40px;
+	width: 40px;
+	background-color: white;
+	margin: 5px 5px;
+	border-radius: 50%;
 }
 
 .header {
@@ -69,7 +105,6 @@
 
 .menuNav {
 	font-size: 12px;
-	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	display: inline-block;
 	text-align: center;
@@ -109,7 +144,7 @@ nav {
 	margin-bottom: 20px;
 }
 
-.socialNav ul {
+.socialNav, .footerSocialNav ul {
 	display: inherit;
 }
 
@@ -125,6 +160,10 @@ nav {
 	box-sizing: border-box;
 }
 
+.thumbnails a {
+	text-decoration: none;
+}
+
 .thumb {
 	margin: 10px 0;
 	height: 200px;
@@ -133,9 +172,21 @@ nav {
 	display: block;
 }
 
-/*.thumb4 {
-	margin-bottom: 10px;
-}*/
+.thumb:hover{
+	border: 2px solid #e6e6e6;
+}
+
+.thumb p {
+	padding: 10px 0px;
+}
+
+.thumb1, .thumb2, .thumb3, .thumb4 {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+    box-sizing: border-box;
+}
 
 .welcome {
 	border-bottom: 2px solid #e6e6e6;
@@ -150,7 +201,7 @@ nav {
 	text-align: center;
 }
 
-.welcome h2 {
+.welcome h1 {
 	font-size: 22px;
 	font-weight: bold;
 	margin-top: 30px;

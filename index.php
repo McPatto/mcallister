@@ -46,27 +46,58 @@
       <div class="slider"></div>
       <div class="breacrumb"></div>
       <div class="welcome">
-        <h2>Bienvenido</h2>
+        <h1>Bienvenido</h1>
         <h3>En Mc Allister Asesores le ofrecemos la mejor asistencia y asesoramiento al momento de conseguir el respaldo que usted se merece.</h3>
       </div>
       <div class="thumbnails">
         <h2>ACCESOS RÁPIDOS</h2>
-        <div class="thumb thumb1">
-          <div class="circle"></div>
+        <div class="thumb">
+          <a href="#">
+            <div class="thumb1">
+              <div class="circle"></div>
+              <h3>SERVICIOS QUE OFRECEMOS</h3>
+              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+            </div>
+          </a>
         </div>
-        <div class="thumb thumb2">
-          <div class="circle"></div>
+        <div class="thumb">
+          <a href="#">
+            <div class="thumb2">
+              <div class="circle"></div>
+              <h3>COMPAÑÍAS CON LAS QUE TRABAJAMOS</h3>
+              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+            </div>
+          </a>
         </div>
-        <div class="thumb thumb3">
-          <div class="circle"></div>
+        <div class="thumb">
+          <a href="#">
+            <div class="thumb3">
+              <div class="circle"></div>
+              <h3>QUIÉNES SOMOS</h3>
+              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+            </div>
+          </a>
         </div>
-        <div class="thumb thumb4">
-          <div class="circle"></div>
+        <div class="thumb">
+          <a href="#">
+            <div class="thumb4">
+              <div class="circle"></div>
+              <h3>FORMULARIOS</h3>
+              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+            </div>
+          </a>
         </div>
       </div>
     </section>
     <section class="footer">
       <p>© Mc Allister Asesores 2018</p>
+      <div class="footerSocialNav">
+            <ul>
+              <a href=""><li></li></a>
+              <a href=""><li></li></a>
+              <a href=""><li></li></a>
+            </ul>
+          </div>
     </section>
   </container>
 
