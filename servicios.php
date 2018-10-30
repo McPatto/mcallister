@@ -31,6 +31,7 @@
             <div class="tab_content_white_border">
               <h3>AUTOMOTORES</h3>
               <p>Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="contacto.php" class="tab_cta">¡LLAME YA!</a>
             </div>
             <div class="black_square"></div>
           </div>
@@ -38,6 +39,7 @@
             <div class="tab_content_white_border">
               <h3>1</h3>
               <p>Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="contacto.php" class="tab_cta">¡LLAME YA!</a>
             </div>
             <div class="black_square"></div>
           </div>
@@ -45,6 +47,7 @@
             <div class="tab_content_white_border">
               <h3>1</h3>
               <p>Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="contacto.php" class="tab_cta">¡LLAME YA!</a>
             </div>
             <div class="black_square"></div>
           </div>
@@ -54,6 +57,7 @@
             <div class="tab_content_white_border">
               <h3>AUTOMOTORES</h3>
               <p>Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="contacto.php" class="tab_cta">¡LLAME YA!</a>
             </div>
             <div class="black_square"></div>
           </div>
@@ -61,6 +65,7 @@
             <div class="tab_content_white_border">
               <h3>1</h3>
               <p>Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="contacto.php" class="tab_cta">¡LLAME YA!</a>
             </div>
             <div class="black_square"></div>
           </div>
@@ -68,6 +73,7 @@
             <div class="tab_content_white_border">
               <h3>1</h3>
               <p>Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="contacto.php" class="tab_cta">¡LLAME YA!</a>
             </div>
             <div class="black_square"></div>
           </div>
