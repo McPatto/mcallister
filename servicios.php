@@ -19,6 +19,7 @@
   <container class="container">
     <?php
       include 'menu_collapsible.html';
+      include 'menu_desktop.html';
     ?>
     <section class="body">
       <div class="slider s_servicios"></div>
