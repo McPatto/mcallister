@@ -4,18 +4,25 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Descripción que elijamos, jeje"/>
+  <meta http-equiv=”content-language” content=”es”/>
+  <meta name=”distribution” content=”global”/>
+  <meta name="keywords" content="palabra1,palabra2"/>
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
-  <title>Mc Allister Asesores | Nosotros</title>
+  <title>Mc Allister Asesores | Servicios</title>
 </head>
 <body>
   <container class="container">
     <?php
       include 'menu_collapsible.html';
+      include 'menu_desktop.html';
     ?>
     <section class="body">
-      <div class="slider slider_servicios"></div>
+      <div class="slider s_servicios"></div>
       <div class="breacrumb"></div>
       <div class="title">
         <h1>SERVICIOS</h1>

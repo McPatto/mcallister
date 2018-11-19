@@ -4,6 +4,12 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Descripción que elijamos, jeje"/>
+  <meta http-equiv=”content-language” content=”es”/>
+  <meta name=”distribution” content=”global”/>
+  <meta name="keywords" content="palabra1,palabra2"/>
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
@@ -13,16 +19,17 @@
   <container class="container">
     <?php
       include 'menu_collapsible.html';
+      include 'menu_desktop.html';
     ?>
     <section class="body">
-      <div class="slider"></div>
+      <div class="s_index slider"></div>
       <div class="breacrumb"></div>
       <div class="welcome">
         <h1>Bienvenido</h1>
         <h3>En Mc Allister Asesores le ofrecemos la mejor asistencia y asesoramiento al momento de conseguir el respaldo que usted se merece.</h3>
       </div>
       <div class="thumbnails">
-        <h2>ACCESOS RÁPIDOS</h2>
+        <h2 class="thumbs_title">ACCESOS RÁPIDOS</h2>
         <div class="thumb">
           <a href="#">
             <div class="thumb1">
