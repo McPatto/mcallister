@@ -10,9 +10,11 @@
   <meta http-equiv=”content-language” content=”es”/>
   <meta name=”distribution” content=”global”/>
   <meta name="keywords" content="palabra1,palabra2"/>
+
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
   <title>Mc Allister Asesores | Inicio</title>
 </head>
 <body>
@@ -25,7 +27,7 @@
       <div class="s_index slider"></div>
       <div class="breacrumb"></div>
       <div class="welcome">
-        <h1>Bienvenido</h1>
+        <h1 class="title">Bienvenido</h1>
         <h3>En Mc Allister Asesores le ofrecemos la mejor asistencia y asesoramiento al momento de conseguir el respaldo que usted se merece.</h3>
       </div>
       <div class="thumbnails">
@@ -35,7 +37,7 @@
             <div class="thumb1">
               <div class="circle"></div>
               <h3>SERVICIOS QUE OFRECEMOS</h3>
-              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+              <p class="paragraph">Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
             </div>
           </a>
         </div>
@@ -44,7 +46,7 @@
             <div class="thumb2">
               <div class="circle"></div>
               <h3>COMPAÑÍAS CON LAS QUE TRABAJAMOS</h3>
-              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+              <p class="paragraph">Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
             </div>
           </a>
         </div>
@@ -53,7 +55,7 @@
             <div class="thumb3">
               <div class="circle"></div>
               <h3>QUIÉNES SOMOS</h3>
-              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+              <p class="paragraph">Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
             </div>
           </a>
         </div>
@@ -62,7 +64,7 @@
             <div class="thumb4">
               <div class="circle"></div>
               <h3>FORMULARIOS</h3>
-              <p>Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
+              <p class="paragraph">Texto de prueba. Acá lo llenás con lo que vos quieras y yo lo pongo al toque. Este es un texto muy largo de 3 líneas mínimo.</p>
             </div>
           </a>
         </div>

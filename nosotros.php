@@ -10,9 +10,11 @@
   <meta http-equiv=”content-language” content=”es”/>
   <meta name=”distribution” content=”global”/>
   <meta name="keywords" content="palabra1,palabra2"/>
+
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
   <title>Mc Allister Asesores | Nosotros</title>
 </head>
 <body>
@@ -29,9 +31,9 @@
         <div class="underline_title"></div>
       </div>
       <div class="text_content">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra diam sit amet nisl suscipit. Nec feugiat nisl pretium fusce. Ipsum consequat nisl vel pretium lectus quam id leo. Ultricies tristique nulla aliquet enim tortor at. Ipsum dolor sit amet consectetur adipiscing elit. Viverra vitae congue eu consequat ac felis donec. At varius vel pharetra vel turpis nunc. Id porta nibh venenatis cras sed felis eget velit. Tempus egestas sed sed risus pretium quam vulputate dignissim. Bibendum enim facilisis gravida neque convallis a. Urna nec tincidunt praesent semper feugiat nibh. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt.</p>
+        <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra diam sit amet nisl suscipit. Nec feugiat nisl pretium fusce. Ipsum consequat nisl vel pretium lectus quam id leo. Ultricies tristique nulla aliquet enim tortor at. Ipsum dolor sit amet consectetur adipiscing elit. Viverra vitae congue eu consequat ac felis donec. At varius vel pharetra vel turpis nunc. Id porta nibh venenatis cras sed felis eget velit. Tempus egestas sed sed risus pretium quam vulputate dignissim. Bibendum enim facilisis gravida neque convallis a. Urna nec tincidunt praesent semper feugiat nibh. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt.</p>
 
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra diam sit amet nisl suscipit. Nec feugiat nisl pretium fusce. Ipsum consequat nisl vel pretium lectus quam id leo. Ultricies tristique nulla aliquet enim tortor at. Ipsum dolor sit amet consectetur adipiscing elit. Viverra vitae congue eu consequat ac felis donec. At varius vel pharetra vel turpis nunc. Id porta nibh venenatis cras sed felis eget velit. Tempus egestas sed sed risus pretium quam vulputate dignissim. Bibendum enim facilisis gravida neque convallis a. Urna nec tincidunt praesent semper feugiat nibh. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt.</p>
+        <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra diam sit amet nisl suscipit. Nec feugiat nisl pretium fusce. Ipsum consequat nisl vel pretium lectus quam id leo. Ultricies tristique nulla aliquet enim tortor at. Ipsum dolor sit amet consectetur adipiscing elit. Viverra vitae congue eu consequat ac felis donec. At varius vel pharetra vel turpis nunc. Id porta nibh venenatis cras sed felis eget velit. Tempus egestas sed sed risus pretium quam vulputate dignissim. Bibendum enim facilisis gravida neque convallis a. Urna nec tincidunt praesent semper feugiat nibh. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt.</p>
       </div>
     </section>
     <?php

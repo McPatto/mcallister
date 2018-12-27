@@ -10,9 +10,11 @@
   <meta http-equiv=”content-language” content=”es”/>
   <meta name=”distribution” content=”global”/>
   <meta name="keywords" content="palabra1,palabra2"/>
+
   <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
   <title>Mc Allister Asesores | Servicios</title>
 </head>
 <body>
