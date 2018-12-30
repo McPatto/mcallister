@@ -31,9 +31,17 @@
         <div class="underline_title"></div>
       </div>
       <div class="text_content">
-        <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra diam sit amet nisl suscipit. Nec feugiat nisl pretium fusce. Ipsum consequat nisl vel pretium lectus quam id leo. Ultricies tristique nulla aliquet enim tortor at. Ipsum dolor sit amet consectetur adipiscing elit. Viverra vitae congue eu consequat ac felis donec. At varius vel pharetra vel turpis nunc. Id porta nibh venenatis cras sed felis eget velit. Tempus egestas sed sed risus pretium quam vulputate dignissim. Bibendum enim facilisis gravida neque convallis a. Urna nec tincidunt praesent semper feugiat nibh. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt.</p>
+        <p class="paragraph">Somos una organización de productores de seguros especializada en brindar asesoramiento y soluciones profesionales en coberturas de todo tipo de riesgos, como seguros patrimoniales y de personas, tanto de líneas personales como comerciales, a medida de cada necesidad.</p>
 
-        <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra diam sit amet nisl suscipit. Nec feugiat nisl pretium fusce. Ipsum consequat nisl vel pretium lectus quam id leo. Ultricies tristique nulla aliquet enim tortor at. Ipsum dolor sit amet consectetur adipiscing elit. Viverra vitae congue eu consequat ac felis donec. At varius vel pharetra vel turpis nunc. Id porta nibh venenatis cras sed felis eget velit. Tempus egestas sed sed risus pretium quam vulputate dignissim. Bibendum enim facilisis gravida neque convallis a. Urna nec tincidunt praesent semper feugiat nibh. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt.</p>
+        <p class="paragraph">Tenemos una trayectoria de 77 años de experiencia en el mercado, operamos con las mejores aseguradoras de plaza para cada riesgo, en un mercado altamente competitivo y de cambios. Esto nos permite satisfacer las necesidades de nuestros clientes de una manera responsable y eficiente.</p>
+
+        <h3 class="secondary_title">MISIÓN</h3>
+
+        <p class="paragraph">Priorizamos la atención personalizada y post venta, especialmente el acompañamiento en el momento del siniestro. Entendemos ésta actividad como un negocio entre personas y por eso consideramos lo más importante: el trato hacia cada uno de ellos.</p>
+
+        <h3 class="secondary_title">VISIÓN</h3>
+
+        <p class="paragraph">Aprovechamos la experiencia, y nuestra competencia profesional que se renueva con constante capacitación, para adelantarnos al futuro, buscando coberturas innovadoras que requieren un vasto conocimiento técnico, porque sabemos que el único camino es trabajar bien, como si cada cliente fuera único, cada día comprometidos con la mejora continua... no son simples palabras, esta es nuestra vocación, 77 años avalan nuestro compromiso.</p>
       </div>
     </section>
     <?php

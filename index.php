@@ -27,8 +27,8 @@
       <div class="s_index slider"></div>
       <div class="breacrumb"></div>
       <div class="welcome">
-        <h1 class="title">Bienvenido</h1>
-        <h3>En Mc Allister Asesores le ofrecemos la mejor asistencia y asesoramiento al momento de conseguir el respaldo que usted se merece.</h3>
+        <h1 class="title">Bienvenido a Mc Allister Asesores</h1>
+        <h3>Estamos siempre para asesorarlo y acompañarlo brindándoles la mejor protección y servicio.</h3>
       </div>
       <div class="thumbnails">
         <h2 class="thumbs_title">ACCESOS RÁPIDOS</h2>
