@@ -92,7 +92,7 @@ h4 {
 }
 
 .comp_8 {
-  background: url(../img/logo_qbe.svg) no-repeat #e6f0f2 center;
+  background: url(../img/logo_zurich.svg) no-repeat #e6f0f2 center;
 }
 
 .comp_9 {
@@ -189,6 +189,7 @@ h4 {
 
 .cd_8{
   grid-row: 8;
+  text-decoration: none;
 }
 
 
@@ -242,25 +243,32 @@ h4 {
 }
 
 .footer {
-  display: flex;
+  display: grid;
   width: 100%;
-  height: 50px;
   font-family: 'Open Sans', sans-serif;
   font-size: 10px;
   font-weight: lighter;
   background-color: #00cccc;
-  justify-content: space-between;
+  grid: repeat(4, 1fr) / 1fr;
+  justify-content: center;
 }
 
 .footer p {
   color: #ffffff;
   margin: auto 20px;
-  justify-content: space-between;
   font-size: 13px;
+  justify-self: center;
+  text-align: center;
+}
+
+.footer p a {
+  color: #FFF;
+  text-decoration: none;
 }
 
 .footerSocialNav {
   display: flex;
+  justify-self: center;
 }
 
 .footerSocialNav ul {
@@ -294,6 +302,11 @@ h4 {
 
 .logo img {
   max-height: 100%;
+}
+
+.logo_ssn {
+  height: 50px;
+  justify-self: center;
 }
 
 .main_title {
@@ -533,15 +546,130 @@ h4 {
   z-index: 1;
 }
 
-.tc_1 {
+/* SERVICIOS PERSONAS */
+.people .tc_1 {
+  background: url(../img/life.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.people .tc_2 {
+  background: url(../img/work_risk.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.people .tc_3 {
+  background: url(../img/personal_accident.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+/* SERVICIOS PATRIMONIALES */
+.patrim .tc_1 {
   background: url(../img/car.jpg) no-repeat #000000 center;
   background-size: 151%;
   transition: 1s;
 }
 
+.patrim .tc_2 {
+  background: url(../img/home.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_3 {
+  background: url(../img/shop.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_4 {
+  background: url(../img/industry.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_5 {
+  background: url(../img/building.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_6 {
+  background: url(../img/handshake.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_7 {
+  background: url(../img/yacht.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_8 {
+  background: url(../img/transport.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_9 {
+  background: url(../img/operation.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.patrim .tc_10 {
+  background: url(../img/civil.jpg) no-repeat #000000 center;
+  background-size: 151%;
+  transition: 1s;
+}
+
+.tab_section_capac .ts_1 .ts_cap_img {
+  background: url(../img/teacher_company.jpg) no-repeat #000000 center;
+  background-size: cover;
+}
+
+.tab_section_capac .ts_2 .ts_cap_img {
+  background: url(../img/audience.jpg) no-repeat #000000 center;
+  background-size: cover;
+}
+
+.productores .ts_1 .ts_cap_img {
+  background: url(../img/be_part.jpg) no-repeat #000000 center;
+  background-size: cover;
+}
+
 .tc_1:hover {
   background-size: 180%;
-
+}
+.tc_2:hover {
+  background-size: 180%;
+}
+.tc_3:hover {
+  background-size: 180%;
+}
+.tc_4:hover {
+  background-size: 180%;
+}
+.tc_5:hover {
+  background-size: 180%;
+}
+.tc_6:hover {
+  background-size: 180%;
+}
+.tc_7:hover {
+  background-size: 180%;
+}
+.tc_8:hover {
+  background-size: 180%;
+}
+.tc_9:hover {
+  background-size: 180%;
+}
+.tc_10:hover {
+  background-size: 180%;
 }
 
 .tab_content_white_border {
@@ -644,6 +772,12 @@ h4 {
 .ts_cap_img .terciary_title {
   color: #FFF;
   text-align: center;
+  text-shadow: 0px 0px 16px rgba(0, 0, 0, 0.5);
+}
+
+.ts_1 .paragraph,
+.ts_2 .paragraph {
+  color: #FFF;
 }
 
 @-webkit-keyframes fadeEffect {
@@ -914,7 +1048,7 @@ h4 {
   }
 
   .tab_section {
-    grid: 1fr / repeat(2, 0.25fr);
+    grid: 1fr / repeat(2, 1fr);
   }
 
   .tabs_button {
@@ -941,6 +1075,12 @@ h4 {
   .text_content, .tabs, .companies, .contact_container {
     padding: 0 70px 70px;
     box-sizing: border-box;
+  }
+
+  .ts_c_i_1 .terciary_title,
+  .ts_c_i_2 .terciary_title {
+    display: flex;
+    align-items: center;
   }
 }
 
@@ -992,6 +1132,24 @@ h4 {
   .slider {
     height: 400px;
   }*/
+}
+
+@media (min-width: 468px) and (max-width: 767px) {
+
+  .ts_c_i_2 .terciary_title {
+    margin-top: 30px;
+  }
+
+  .ts_1 .ts_cap_img {
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
+  }
+
+  .ts_2 .ts_cap_img {
+    -webkit-clip-path: polygon(0% 100%, 20% 0%, 100% 0%, 100% 100%);
+    clip-path: polygon(0% 100%, 20% 0%, 100% 0%, 100% 100%);
+  }
+
 }
 
 @media (min-width: 468px) {
@@ -1098,16 +1256,12 @@ h4 {
   .ts_1 .ts_cap_img {
     grid-row: 1 / 3;
     height: calc(80vw - 10px);
-    -webkit-clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
-    clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
   }
 
   .ts_2 .ts_cap_img {
     grid-row: 1 / 3;
     grid-column: 2;
     height: calc(80vw - 10px);
-    -webkit-clip-path: polygon(0% 100%, 20% 0%, 100% 0%, 100% 100%);
-    clip-path: polygon(0% 100%, 20% 0%, 100% 0%, 100% 100%);
   }
 
   .ts_1 .paragraph {
@@ -1131,7 +1285,6 @@ h4 {
   }
 
   .ts_c_i_2 .terciary_title {
-    margin-top: 30px;
     margin-right: 30px;
   }
 

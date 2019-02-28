@@ -11,7 +11,7 @@
   <meta name=”distribution” content=”global”/>
   <meta name="keywords" content="seguros,broker,mcallister,macalister,macalister,mcalister,eduardo,fernando,seguro,automotores,autos,auto,asegurador,vendedordeseguros"/>
 
-  <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:100|400" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Open+Sans:100,400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
@@ -81,7 +81,7 @@
       <div class="text_content">
         <p class="paragraph">Somos una organización de productores de seguros especializada en brindar asesoramiento y soluciones profesionales en coberturas de todo tipo de riesgos, como seguros patrimoniales y de personas, tanto de líneas personales como comerciales, a medida de cada necesidad.</p>
 
-        <p class="paragraph">Tenemos una trayectoria de 77 años de experiencia en el mercado, operamos con las mejores aseguradoras de plaza para cada riesgo, en un mercado altamente competitivo y de cambios. Esto nos permite satisfacer las necesidades de nuestros clientes de una manera responsable y eficiente.</p>
+        <p class="paragraph">Tenemos una trayectoria de 37 años de experiencia en el mercado, operamos con las mejores aseguradoras de plaza para cada riesgo, en un mercado altamente competitivo y de cambios. Esto nos permite satisfacer las necesidades de nuestros clientes de una manera responsable y eficiente.</p>
 
         <h2 class="secondary_title">MISIÓN</h3>
 
@@ -106,118 +106,110 @@
           <button class="tab_link left_tab_under" onclick="openTab(event, 'Capacitacion')">CAPACITACIÓN</button>
           <button class="tab_link right_tab_under" onclick="openTab(event, 'Productores')">PRODUCTORES</button>
         </div>
-        <div class="tab_section" id="Personas">
+        <div class="tab_section people" id="Personas">
           <div class="tab_content tc_1">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">SEGUROS DE VIDA</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_2">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">RIESGOS DEL TRABAJO</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_3">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">ACCIDENTES PERSONALES</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
         </div>
-        <div class="tab_section" id="Patrimoniales">
+        <div class="tab_section patrim" id="Patrimoniales">
           <div class="tab_content tc_1">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">AUTOMÓVILES</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_2">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">HOGAR</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_3">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">COMERCIO</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_4">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">INDUSTRIA</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_5">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">CONSORCIOS</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_6">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">CAUCIÓN</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_7">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">EMBARCACIONES</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_8">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">TRANSPORTES</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
-          <div class="tab_content tc_1">
-            <div class="tab_content_white_border">
-              <h3 class="terciary_title">AERONAVES</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
-            </div>
-            <div class="black_square"></div>
-          </div>
-          <div class="tab_content tc_1">
-            <div class="tab_content_white_border">
-              <h3 class="terciary_title">RESPONSABILIDAD CIVIL</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
-            </div>
-            <div class="black_square"></div>
-          </div>
-          <div class="tab_content tc_1">
+          <div class="tab_content tc_9">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">TÉCNICO</h3>
               <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
-              <a href="contacto.php" class="tab_cta">CONTÁCTENOS</a>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
+            </div>
+            <div class="black_square"></div>
+          </div>
+          <div class="tab_content tc_10">
+            <div class="tab_content_white_border">
+              <h3 class="terciary_title">RESPONSABILIDAD CIVIL</h3>
+              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
           </div>
@@ -227,24 +219,33 @@
             <div class="ts_cap_img ts_c_i_1">
               <h3 class="terciary_title">A EMPRESAS</h3>
             </div>
-            <p class="paragraph">Descripción del servicio a ofrecer.</p>
-            <a href="contacto.php" class="tab_cta ts_cta">CONTÁCTENOS</a>
+            <p class="paragraph">
+              Comercial y técnica para empresas.
+              <br>
+              De actualización.
+            </p>
+            <a href="#contact" class="tab_cta ts_cta">CONTÁCTENOS</a>
           </div>
           <div class="ts_cap ts_2">
             <div class="ts_cap_img ts_c_i_2">
               <h3 class="terciary_title">A PRODUCTORES</h3>
             </div>
-            <p class="paragraph">Descripción del servicio a ofrecer.</p>
-            <a href="contacto.php" class="tab_cta ts_cta">CONTÁCTENOS</a>
+            <p class="paragraph">
+              Planes de carrera. <br>
+              Capacitación sobre coberturas. <br>
+              Acompañamiento para crecimiento de carteras. <br>
+              Experiencia y contención.
+            </p>
+            <a href="#contact" class="tab_cta ts_cta">CONTÁCTENOS</a>
           </div>
         </div>
-        <div class="tab_section" id="Productores">
+        <div class="tab_section productores" id="Productores">
           <div class="ts_cap ts_1">
             <div class="ts_cap_img ts_c_i_1">
               <h3 class="terciary_title">FORME PARTE DE NUESTRA ORGANIZACIÓN</h3>
             </div>
-              <p class="paragraph">Descripción del servicio a ofrecer.</p>
-              <a href="contacto.php" class="tab_cta ts_cta">CONTÁCTENOS</a>
+              <p class="paragraph"></p>
+              <a href="#contact" class="tab_cta ts_cta">CONTÁCTENOS</a>
           </div>
         </div>
       </section>
@@ -263,57 +264,57 @@
             <p class="comp_info">ALLIANZ</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_2 link">
+        <a target="_blank" href="http://www.afianzadora.com.ar/" class="comp_square comp_2 link">
           <div class="comp_square_hover">
             <p class="comp_info">AFIANZADORA S.A.</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_3 link">
+        <a target="_blank" href="https://www.laholando.com/" class="comp_square comp_3 link">
           <div class="comp_square_hover">
             <p class="comp_info">LA HOLANDO SUDAMERICANA</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_4 link">
+        <a target="_blank" href="https://www.victoria.com.ar/" class="comp_square comp_4 link">
           <div class="comp_square_hover">
             <p class="comp_info">VICTORIA SEGUROS</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_5 link">
+        <a target="_blank" href="https://www.fedpat.com.ar/" class="comp_square comp_5 link">
           <div class="comp_square_hover">
             <p class="comp_info">FEDERACIÓN PATRONAL</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_6 link">
+        <a target="_blank" href="https://www.berkley.com.ar/" class="comp_square comp_6 link">
           <div class="comp_square_hover">
             <p class="comp_info">BERKLEY</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_7 link">
+        <a target="_blank" href="https://www.berkley.com.ar/art/" class="comp_square comp_7 link">
           <div class="comp_square_hover">
             <p class="comp_info">BERKLEY ART</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_8 link">
+        <a target="_blank" href="https://www.zurich.com.ar/" class="comp_square comp_8 link">
           <div class="comp_square_hover">
-            <p class="comp_info">QBE</p>
+            <p class="comp_info">ZURICH</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_9 link">
+        <a target="_blank" href="https://www.segurossura.com.ar/" class="comp_square comp_9 link">
           <div class="comp_square_hover">
-            <p class="comp_info">ASEGURADORA DE CRÉDITOS Y GARANTÍAS</p>
+            <p class="comp_info">SURA ACG</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_10 link">
+        <a target="_blank" href="https://www.swissmedical.com.ar/smgnewsite/smglife/" class="comp_square comp_10 link">
           <div class="comp_square_hover">
             <p class="comp_info">SMG LIFE</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_11 link">
+        <a target="_blank" href="https://www.swissmedical.com.ar/smgnewsite/smgart/" class="comp_square comp_11 link">
           <div class="comp_square_hover">
             <p class="comp_info">SMG ART</p>
           </div>
         </a>
-        <a target="_blank" href="http://www.allianz.com.ar" class="comp_square comp_12 link">
+        <a target="_blank" href="https://www.gruposancorseguros.com/ar/es/home-art" class="comp_square comp_12 link">
           <div class="comp_square_hover">
             <p class="comp_info">PREVENCIÓN RIESGOS DEL TRABAJO</p>
           </div>
@@ -350,7 +351,7 @@
           <p class="paragraph cd_5">Av. Maipú 851, 9º J, Vicente López, Buenos Aires.</p>
           <p class="paragraph cd_6">011 4797 6646</p>
           <p class="paragraph cd_7">011 4491 4203</p>
-          <p class="paragraph cd_8">mcallister@mcallisterasesores.com.ar</p>
+          <a href="mailto:mcallister@mcallisterasesores.com.ar" class="paragraph cd_8">mcallister@mcallisterasesores.com.ar</a>
         </div>
       </div>
 
