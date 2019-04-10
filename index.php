@@ -11,6 +11,7 @@
   <meta name=”distribution” content=”global”/>
   <meta name="keywords" content="seguros,broker,mcallister,macalister,macalister,mcalister,eduardo,fernando,seguro,automotores,autos,auto,asegurador,vendedordeseguros"/>
 
+  <link rel="shortcut icon" href="http://mcallisterasesores.com.ar/isotipo.ico">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Open+Sans:100,400" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/reset.css" />
   <link rel="stylesheet" type="text/css" href="css/styles.css" />
