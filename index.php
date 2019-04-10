@@ -89,7 +89,7 @@
 
         <h2 class="secondary_title">VISIÓN</h2>
 
-        <p class="paragraph p_vision">Aprovechamos la experiencia, y nuestra competencia profesional que se renueva con constante capacitación, para adelantarnos al futuro, buscando coberturas innovadoras que requieren un vasto conocimiento técnico, porque sabemos que el único camino es trabajar bien, como si cada cliente fuera único, cada día comprometidos con la mejora continua... no son simples palabras, esta es nuestra vocación, 77 años avalan nuestro compromiso.</p>
+        <p class="paragraph p_vision">Aprovechamos la experiencia, y nuestra competencia profesional que se renueva con constante capacitación, para adelantarnos al futuro, buscando coberturas innovadoras que requieren un vasto conocimiento técnico, porque sabemos que el único camino es trabajar bien, como si cada cliente fuera único, cada día comprometidos con la mejora continua... no son simples palabras, esta es nuestra vocación, 37 años avalan nuestro compromiso.</p>
       </div>
 
       <!-- SERVICIOS -->
@@ -110,7 +110,7 @@
           <div class="tab_content tc_1">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">SEGUROS DE VIDA</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Amplia gama de coberturas que garantizan  protección para los que mas quiere, planificación financiera , incapacidades, retiro y resguardo de empresas , con opciones versátiles y novedosas.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -118,7 +118,7 @@
           <div class="tab_content tc_2">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">RIESGOS DEL TRABAJO</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Lo acompañamos sobre la decisión de ésta cobertura obligatoria, ofreciéndole las mejores art del mercado en servicio y respaldo.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -126,7 +126,7 @@
           <div class="tab_content tc_3">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">ACCIDENTES PERSONALES</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Alternativas individuales y colectivas, los asesoramos sobre las mas avanzadas coberturas.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -135,8 +135,8 @@
         <div class="tab_section patrim" id="Patrimoniales">
           <div class="tab_content tc_1">
             <div class="tab_content_white_border">
-              <h3 class="terciary_title">AUTOMÓVILES</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <h3 class="terciary_title">VEHÍCULOS</h3>
+              <p class="paragraph">Muy amplias coberturas de flotas o individuales para todo tipo de vehículos, con aseguradoras de primera línea y amplios beneficios adicionales.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -144,7 +144,7 @@
           <div class="tab_content tc_2">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">HOGAR</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Protección completa para todos los riesgos a los que está expuesto su hogar, ofreciéndole coberturas de vanguardia.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -152,7 +152,7 @@
           <div class="tab_content tc_3">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">COMERCIO</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Lo asesoramos para que acceda a la mejor protección a medida  para su comercio, el motor de sus ingresos.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -160,7 +160,7 @@
           <div class="tab_content tc_4">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">INDUSTRIA</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Seguros integrales que amparan la mayoría de los eventos  , ayudandolo a  seguir adelante mas allá de cualquier contratiempo.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -168,7 +168,7 @@
           <div class="tab_content tc_5">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">CONSORCIOS</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Seguros integrales de consorcios, donde todos los riesgos encuentran su cobertura. Ayudamos a analizar cada situación, para tomar la mejor decisión.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -176,7 +176,7 @@
           <div class="tab_content tc_6">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">CAUCIÓN</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Las mejores y novedosas garantías para la mas amplia variedad de obligaciones.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -184,7 +184,7 @@
           <div class="tab_content tc_7">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">EMBARCACIONES</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Toda la gama de coberturas para embarcaciones de placer y comerciales.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -192,7 +192,7 @@
           <div class="tab_content tc_8">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">TRANSPORTES</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Asesoramiento sobre coberturas para el transporte de todo tipo de bienes, tanto sea marítmo, aéreo o terrestre.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -200,7 +200,7 @@
           <div class="tab_content tc_9">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">TÉCNICO</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Todo el abanico de amparos de todo riesgo para la construcción o industria.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -208,7 +208,7 @@
           <div class="tab_content tc_10">
             <div class="tab_content_white_border">
               <h3 class="terciary_title">RESPONSABILIDAD CIVIL</h3>
-              <p class="paragraph">Texto de prueba que muestra los servicios que ofreces con una descripción bastante basta para que entiendan los clientes. Saludos cordiales</p>
+              <p class="paragraph">Coberturas para resguardar el patrimonio del asegurado ante el reclamo de un tercero. Para profesionales, particulares y empresas.</p>
               <a href="#contact" class="tab_cta">CONTÁCTENOS</a>
             </div>
             <div class="black_square"></div>
@@ -378,21 +378,21 @@
 
     document.getElementById("defaultOpen").click();
 
-      $(document).ready(function() {
+    $(document).ready(function() {
 
-        // Get the nav height
-        var headerHeight = $('nav').outerHeight();
+      // Get the nav height
+      var headerHeight = $('nav').outerHeight();
 
-        // Animation when click on menu links
-        $('.menuLink').click(function() {
+      // Animation when click on menu links
+      $('.menuLink').click(function() {
 
-          var linkHref = $(this).attr('href');
+        var linkHref = $(this).attr('href');
 
-          $('html, body').animate({
-            scrollTop: $(linkHref).offset().top - headerHeight
-          }, 1000);
+        $('html, body').animate({
+          scrollTop: $(linkHref).offset().top - headerHeight
+        }, 1000);
 
-        });
+      });
     });
   </script>
 </body>
